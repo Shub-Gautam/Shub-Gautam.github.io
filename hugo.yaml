@@ -1,0 +1,59 @@
+baseURL: "https://example.com/"
+title: "S K Gautam"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      unsafe: true
+      attribute:
+        block: true
+  highlight:
+    noClasses: false
+  
+
+
+menu:
+  main:
+    - name: Projects
+      pageRef: /docs
+      weight: 1
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3
+    - name: Linkedin
+      weight: 5
+      url: "https://linkedin.com/in/shubham-gautam-156b501b9"
+      params:
+        icon: linkedin
+    - name: GitHub
+      weight: 6
+      url: "https://github.com/imfing/hextra"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      link: /
+      width: 40
+      height: 20
+
+
+
+
+enableRobotsTXT: true
+enableGitInfo: true
+# enableEmoji: false
+hasCJKLanguage: true

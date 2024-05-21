@@ -25,6 +25,9 @@ layout: hextra-home
 {{< hextra/hero-button text="Get Started" link="docs" >}}
 </div>
 
+
+
+
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
@@ -74,3 +77,19 @@ layout: hextra-home
     subtitle="Syntax highlighting / Table of contents / SEO / RSS / LaTeX / Mermaid / Customizable / and more..."
   >}}
 {{< /hextra/feature-grid >}}
+
+
+
+ <div class="hx-relative hx-w-full hx-p-6">
+      <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
+        <span>Adobe</span>
+      </h3>
+      <p>CXM Intern</p>
+      <font class="hx-mb-3">
+      • Build a Machine Learning Model in python to give predictions based on description and display it on the frontend using APIs using flask</font>
+      <br>
+      <font class="hx-mb-3">
+      • Develop a Microsoft Power App application to implement functionality of Planner to manage tasks and generate automated reports using Power BI</font>
+</div>
+
+
