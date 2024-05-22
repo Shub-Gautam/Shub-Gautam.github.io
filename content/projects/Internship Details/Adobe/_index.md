@@ -6,6 +6,8 @@ title: CXM Intern @ Adobe
 
 ### Public Resources
 
+<!-- {{< youtube 0RKpf3rK57I >}} -->
+
 {{< cards >}}
   {{< card link="getting-started" title="Presentation" icon="document-text" subtitle="" >}}
 {{< /cards >}}
