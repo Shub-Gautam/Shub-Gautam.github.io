@@ -19,8 +19,8 @@ markup:
 
 menu:
   main:
-    - name: Projects
-      pageRef: /docs
+    - name: Details
+      pageRef: /projects
       weight: 1
     - name: Blog
       pageRef: /blog
@@ -49,6 +49,12 @@ params:
       link: /
       width: 40
       height: 20
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
 
 
 
