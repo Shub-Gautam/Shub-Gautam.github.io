@@ -116,7 +116,7 @@ layout: hextra-home
 
 <div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-1 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols: 3; ">
   
-  <a class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
+  <a class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
     <div class="hx-relative hx-w-full hx-p-6">
       <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
         <span>Adobe</span>
@@ -130,7 +130,7 @@ layout: hextra-home
       details about the internship {{< icon "external-link" >}}
     </div></a>
 
-  <a class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
+  <a class=" text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
     <div class="hx-relative hx-w-full hx-p-6">
       <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
         <span>IIT Bombay</span>
@@ -144,7 +144,7 @@ layout: hextra-home
       details about the internship {{< icon "external-link" >}}
     </div></a>
 
-  <a class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
+  <a class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
     <div class="hx-relative hx-w-full hx-p-6">
       <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
         <span>IIT Bombay</span>
@@ -159,7 +159,7 @@ layout: hextra-home
     </div></a>
 
 
-  <a class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
+  <a class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
     <div class="hx-relative hx-w-full hx-p-6">
       <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
         <span>Eatoes</span>
@@ -173,3 +173,53 @@ layout: hextra-home
       details about the internship {{< icon "external-link" >}}
     </div></a>
 </div>
+
+<div class="hx-mb-10"></div>
+
+<div class="hx-mb-6">
+<font size="6"><b>What other people say</b></font>
+</div>
+
+<div id="carouselExampleAutoplaying" class="carousel slide w-100" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active px-2">
+      <figure class="text-center">
+      <img class="rounded-2xl hx-mb-2" style="border-radius: 1rem; margin-right:auto; margin-left:auto;" src="images/iitb.jpg" height="200" width="200" alt="">
+        <blockquote class="blockquote hx-mb-6" style="margin-bottom: 3rem ; !important">
+          <p>"Shubham has worked independently and handled the back end and front end
+      with full dedication. He has contributed to website development and the Android app
+      backend in NodeJS. His design skills, in addition to his coding prowess, deserve special
+      attention. He is a quick learner and was responsible for developing and testing the
+      website and android app.
+      He has been enthusiastic, sincere, and dedicated and has performed
+      commendably on the project. He demonstrated excellent teamwork skills and
+      coordination. We take this opportunity to thank him and wish him luck for the future."</p>
+        </blockquote>
+        <figcaption class="blockquote-footer">
+          Ayush Maheshwari, Research Scientist @ Vizzhy Inc, PhD IIT Bombay 
+        </figcaption>
+      </figure>
+    </div>
+    <div class="carousel-item  px-2" > 
+      <figure class="text-center">
+        <img class="rounded-2xl hx-mb-2" style="border-radius: 1rem; margin-right:auto; margin-left:auto;" src="images/t1.jpeg" height="200" width="200" alt="">
+        <blockquote class="blockquote hx-mb-6" style="margin-bottom: 3rem ; !important">
+          <p>"Working with Shubham during his internship at Eatoes was a fantastic experience. Shubham quickly learned complex concepts and wrote great code that improved our project a lot. He was always ready to help and had good ideas. Shubham is a dedicated and talented developer, and I'm sure he'll do great in the software industry and will bring lot of skills and ideas to the table. I recommend him for any similar roles without hesitation."</p>
+        </blockquote>
+        <figcaption class="blockquote-footer hx-mt-6">
+          Atul Tiwari, System Analyst @DAZN, Ex Eatoes 
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+

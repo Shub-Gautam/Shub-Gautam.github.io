@@ -26,21 +26,21 @@ During my academic year (2020-2024) I have completed 4 internships in multiple f
 ### IIT Bombay
 
 {{< cards >}}
-{{< card link="adobe/" title="Adobe" icon="briefcase" subtitle="CXM Intern Apr 2023 - Nov 2023" >}}
+{{< card link="iit-bombay/" title="IIT Bombay" icon="briefcase" subtitle="Web Developer Jul 2022 - Feb 2023" >}}
 {{< /cards >}}
 
 
 ### Tricket.in
 
 {{< cards >}}
-{{< card link="adobe/" title="Adobe" icon="briefcase" subtitle="CXM Intern Apr 2023 - Nov 2023" >}}
+{{< card link="tricket/" title="Tricket.in" icon="briefcase" subtitle="Backend Developer Feb 2022 - Mar 2022" >}}
 {{< /cards >}}
 
 
 ### Eatoes
 
 {{< cards >}}
-{{< card link="adobe/" title="Adobe" icon="briefcase" subtitle="CXM Intern Apr 2023 - Nov 2023" >}}
+{{< card link="eatoes/" title="Eatoes" icon="briefcase" subtitle="Backend Developer Oct 2021 - Jan 2022" >}}
 {{< /cards >}}
 {{% /steps %}}
 

@@ -1,8 +1,6 @@
 ---
-title: Adobe 
+title: Eatoes
 ---
-
-<!--more-->
 
 ### Public Resources
 
@@ -12,9 +10,3 @@ title: Adobe
   {{< card link="getting-started" title="Presentation" icon="document-text" subtitle="" >}}
   {{< card link="getting-started" title="Certification" icon="document-text" subtitle="" >}}
 {{< /cards >}}
-
-
-
-[hugo]: https://gohugo.io/
-[flex-search]: https://github.com/nextapps-de/flexsearch
-[tailwind-css]: https://tailwindcss.com/
