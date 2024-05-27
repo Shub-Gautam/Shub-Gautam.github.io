@@ -38,7 +38,7 @@ menu:
         icon: linkedin
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/Shub-Gautam"
       params:
         icon: github
 
