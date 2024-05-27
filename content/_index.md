@@ -57,6 +57,14 @@ layout: hextra-home
   >}}
 {{< /hextra/feature-grid >}}
 
+<div class="hx-mb-4"></div>
+
+{{< hextra/hero-badge link="projects/project-details/" >}}
+  <span>for more projects visit Details</span>
+  {{< icon name="link" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
+
 <div class="hx-mb-10"></div>
 
 <div class="hx-mb-6">
@@ -65,21 +73,31 @@ layout: hextra-home
 
 {{% steps %}}
 
-### B.Tech (Computer Science & Technology)
+### Bachelor of Technology (Computer Science & Technology)
 
-Maharaja Agrasen Institute of Technology, Delhi
+Maharaja Agrasen Institute of Technology, Delhi [2020-2024]
+<br>
+Department Rank: 10
 <br>
 CGPA: 9.20/10
 
+{{% details title="Position of Responsibilities" closed="true" %}}
+**Web Developer Mentor @ Girl Code it [2022 - 2023]** 
+
+• Mentor freshers in web development roadmap
+
+{{% /details %}}
+<br>
+
 ### Higher Secondary
 
-Radha Krishna Public Sr. Sec. School, Uttar Pradesh
+Radha Krishna Public Sr. Sec. School, Uttar Pradesh [2019]
 <br>
 Percentage 92.6%
 
 ### Senior Secondary
 
-Radha Krishna Public Sr. Sec. School, Uttar Pradesh
+Radha Krishna Public Sr. Sec. School, Uttar Pradesh [2017]
 <br>
 CGPA: 10/10
 
@@ -88,10 +106,6 @@ CGPA: 10/10
 <div class="hx-mb-6">
 <font size="6"><b>Internships</b></font>
 </div>
-
-
-
-
 
 <div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-1 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols: 3; ">
   
@@ -155,17 +169,35 @@ CGPA: 10/10
 
 <div class="hx-mb-10"></div>
 
+
+<div class="hx-mb-6">
+<font size="6"><b>Achievements</b></font>
+</div>
+
+• Innerve Hack IGDTUW Secured finalist position under 30 teams.
+
+• Solved 700+ coding questions on platforms like leetcode and codeforces.
+
+• Leetcode (contest rating 1800+) in top 7% of the website.
+
+• Flipkart Grid 4.0 1st round clearup (1300 teams selected out of 50000 teams) work on problem statement NFT Based Warranty System
+
+
+
+
+
 <div class="hx-mb-6">
 <font size="6"><b>Recommendation</b></font>
 </div>
 
-<div id="carouselExampleAutoplaying" class="carousel slide w-100" data-bs-ride="carousel">
+<div class="w-75" style="margin-right:auto; margin-left:auto;">
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active px-2">
       <figure class="text-center">
       <img class="rounded-2xl hx-mb-2" style="border-radius: 1rem; margin-right:auto; margin-left:auto;" src="images/iitb.jpg" height="200" width="200" alt="">
         <blockquote class="blockquote hx-mb-6" style="margin-bottom: 3rem ; !important">
-          <p>"Shubham has worked independently and handled the back end and front end
+          <p style="font-size:16px;">"Shubham has worked independently and handled the back end and front end
       with full dedication. He has contributed to website development and the Android app
       backend in NodeJS. His design skills, in addition to his coding prowess, deserve special
       attention. He is a quick learner and was responsible for developing and testing the
@@ -175,7 +207,7 @@ CGPA: 10/10
       coordination. We take this opportunity to thank him and wish him luck for the future."</p>
         </blockquote>
         <figcaption class="blockquote-footer">
-          Ayush Maheshwari, Research Scientist @ Vizzhy Inc, PhD IIT Bombay 
+          <a src="/doc">Ayush Maheshwari</a>, Research Scientist @ Vizzhy Inc, PhD IIT Bombay 
         </figcaption>
       </figure>
     </div>
@@ -183,10 +215,10 @@ CGPA: 10/10
       <figure class="text-center">
         <img class="rounded-2xl hx-mb-2" style="border-radius: 1rem; margin-right:auto; margin-left:auto;" src="images/t1.jpeg" height="200" width="200" alt="">
         <blockquote class="blockquote hx-mb-6" style="margin-bottom: 3rem ; !important">
-          <p>"Working with Shubham during his internship at Eatoes was a fantastic experience. Shubham quickly learned complex concepts and wrote great code that improved our project a lot. He was always ready to help and had good ideas. Shubham is a dedicated and talented developer, and I'm sure he'll do great in the software industry and will bring lot of skills and ideas to the table. I recommend him for any similar roles without hesitation."</p>
+          <p style="font-size:16px;">"Working with Shubham during his internship at Eatoes was a fantastic experience. Shubham quickly learned complex concepts and wrote great code that improved our project a lot. He was always ready to help and had good ideas. Shubham is a dedicated and talented developer, and I'm sure he'll do great in the software industry and will bring lot of skills and ideas to the table. I recommend him for any similar roles without hesitation."</p>
         </blockquote>
         <figcaption class="blockquote-footer hx-mt-6">
-          Atul Tiwari, System Analyst @DAZN, Ex Eatoes 
+          Atul Tiwari, System Analyst @DAZN, Ex Eatoes
         </figcaption>
       </figure>
     </div>
@@ -199,6 +231,7 @@ CGPA: 10/10
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+</div>
 </div>
 
 
