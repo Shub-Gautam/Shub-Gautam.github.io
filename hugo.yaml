@@ -31,6 +31,10 @@ menu:
       name: About Me
       pageRef: /about-me
       weight: 3
+    - identifier: Contact Me
+      name: Contact Me
+      pageRef: /contact-me
+      weight: 3
     - name: Linkedin
       weight: 4
       url: "https://linkedin.com/in/shubham-gautam-156b501b9"
@@ -77,3 +81,10 @@ enableRobotsTXT: true
 enableGitInfo: true
 # enableEmoji: false
 hasCJKLanguage: true
+
+
+
+
+services:
+  googleAnalytics:
+    ID: G-2R9NKRZZ4F

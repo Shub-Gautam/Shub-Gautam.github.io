@@ -11,7 +11,7 @@ title: Details & Resources
 {{< cards >}}
   {{< card link="internship-details/" title="Internships Details" icon="briefcase" subtitle="" >}}
   {{< card link="project-details/" title="Project Details" icon="code" subtitle="" >}}
-  {{< card link="getting-started" title="Coursework Details" icon="academic-cap" subtitle="" >}}
+  {{< card link="certifications" title="Certification" icon="academic-cap" subtitle="" >}}
 {{< /cards >}}
 
 [hugo]: https://gohugo.io/
