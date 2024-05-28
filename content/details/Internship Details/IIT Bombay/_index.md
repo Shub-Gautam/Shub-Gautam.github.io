@@ -9,5 +9,5 @@ title: IIT Bombay
 
 {{< cards >}}
   {{< card link="getting-started" title="Presentation" icon="document-text" subtitle="" >}}
-  {{< card link="getting-started" title="Certification" icon="document-text" subtitle="" >}}
+  {{< card link="https://drive.google.com/file/d/1xLcdewhnEf1KgSWoD_Iy_61wjyVog2BA/view?usp=drive_link" title="Certification" icon="document-text" subtitle="" >}}
 {{< /cards >}}

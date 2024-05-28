@@ -28,7 +28,7 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
 {{< hextra/feature-card
     title="DDN Storage"
-    link="/projects/project-details/ddn-storage/"
+    link="/details/project-details/ddn-storage/"
     subtitle="Data extractor engine for Cloud storage which helps you to collect hidden data and patterns from your cloud files "
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="images/ddnimg.png"
@@ -37,7 +37,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="MCacheDB"
-    link="/projects/project-details/mcachedb/"
+    link="/details/project-details/mcachedb/"
     subtitle="In-Memory Key Value Database in java with features like Backup Sharing, Remote login, concurrency handeling, API API  "
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="images/mcachef.png"
@@ -49,7 +49,7 @@ layout: hextra-home
   {{< hextra/feature-card
     title="TOG Alora"
     subtitle="Android application for NGO/Volunteers which help them moniter their functions and attendance using virtual ID Card."
-    link="/projects/project-details/tog-alora/"
+    link="/details/project-details/tog-alora/"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="images/togalora1.png"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
@@ -59,7 +59,7 @@ layout: hextra-home
 
 <div class="hx-mb-4"></div>
 
-{{< hextra/hero-badge link="projects/project-details/" >}}
+{{< hextra/hero-badge link="details/project-details/" >}}
   <span>for more projects visit Details</span>
   {{< icon name="link" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
@@ -109,7 +109,7 @@ CGPA: 10/10
 
 <div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-1 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols: 3; ">
   
-  <a class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
+  <a href="details/internship-details/adobe/" class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
     <div class="hx-relative text-decoration-none hx-w-full hx-p-6">
       <h3 class="hx-text-2xl text-decoration-none hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
         <span>Adobe</span>
@@ -123,7 +123,7 @@ CGPA: 10/10
       details about the internship {{< icon "external-link" >}}
     </div></a>
 
-  <a class=" text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
+  <a href="details/internship-details/iit-bombay/" class=" text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
     <div class="hx-relative hx-w-full hx-p-6">
       <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
         <span>IIT Bombay</span>
@@ -152,7 +152,7 @@ CGPA: 10/10
     </div></a>
 
 
-  <a class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
+  <a href="details/internship-details/eatoes/" class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
     <div class="hx-relative hx-w-full hx-p-6">
       <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
         <span>Eatoes</span>

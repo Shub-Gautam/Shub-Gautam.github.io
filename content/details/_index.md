@@ -1,9 +1,9 @@
 ---
-linkTitle: "Details & Resources"
-title: Details & Resources
+linkTitle: "Details Section"
+title: Details Section
 ---
 
-👋 Hello! This section contains detail information about my projects, internship and course work!
+👋 Hello! This section contains all the detailed information about my projects, internship and course work!
 
 
 ## Links

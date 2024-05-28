@@ -18,10 +18,8 @@ cascade:
 </style>
 
 
-Primary Email: <a href="mailto:skgautam393@gmail.com" >skgautam393@gmail.com</a>
-
-Secondary Email: <a href="mailto:sgautam393@outlook.com" >sgautam393@outlook.com</a>
-
+Primary Email: <a href="mailto:skgautam393@gmail.com" >skgautam393@gmail.com</a><br>
+Secondary Email: <a href="mailto:sgautam393@outlook.com" >sgautam393@outlook.com</a><br>
 Contact: <a class="text-decoration-none" href="tel:9548425684">9548425684</a>
 
 

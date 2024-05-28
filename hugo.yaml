@@ -22,7 +22,7 @@ module:
 menu:
   main:
     - name: Details
-      pageRef: /projects
+      pageRef: /details
       weight: 1
     - name: Blog
       pageRef: /blog
