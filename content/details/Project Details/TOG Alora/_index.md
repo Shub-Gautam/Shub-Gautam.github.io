@@ -79,3 +79,16 @@ High Level Design of the application
 
 
 {{% /details %}}
+
+
+{{% details title="Registration Demo" closed="true"  %}}
+
+Here is a video demo for Registering on the application
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://docs.google.com/presentation/d/1UTuqdEwngV9wD82L4qOQyxKL_A6Y8fA6/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+  ></iframe>
+</div>
+
+
+{{% /details %}}
