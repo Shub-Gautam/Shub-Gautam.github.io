@@ -3,9 +3,11 @@ title: Hextra Theme
 layout: hextra-home
 ---
 
+
+
 <div class="hx-mt-6 hx-mb-5">
 {{< hextra/hero-headline >}}
-  Shubham Kumar Gautam&nbsp;<br class="sm:hx-block hx-hidden" />SDE-I at Hindustan Times Media
+  Shubham Kumar Gautam&nbsp;<br class="sm:hx-block hx-hidden" />Upcoming SDE-I <br class="sm:hx-block hx-hidden" /> at Hindustan Times Media
 {{< /hextra/hero-headline >}}
 </div>
 
@@ -75,7 +77,7 @@ layout: hextra-home
 
 ### Bachelor of Technology (Computer Science & Technology)
 
-Maharaja Agrasen Institute of Technology, Delhi [2020-2024]
+Maharaja Agrasen Institute of Technology, Delhi [2020-2024] <a class="text-decoration-none" href="https://www.mait.ac.in">www.mait.ac.in</a>
 <br>
 Department Rank: 10
 <br>
@@ -103,69 +105,67 @@ CGPA: 10/10
 
 {{% /steps %}}
 
+
+
+
+
+
+
 <div class="hx-mb-6">
 <font size="6"><b>Internships</b></font>
 </div>
 
-<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-1 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols: 3; ">
-  
-  <a href="details/internship-details/adobe/" class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
-    <div class="hx-relative text-decoration-none hx-w-full hx-p-6">
-      <h3 class="hx-text-2xl text-decoration-none hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
-        <span>Adobe</span>
-      </h3>
-      <div class="hx-mb-6">
-<font size="4"><b>CXM Intern</b></font>
-</div>
-      <p class="hx-text-gray-500 dark:hx-text-gray-400  hx-leading-6">• Build a Machine Learning Model in python to give predictions based on description and display it on the frontend using APIs using flask</p>
-      <p class="hx-text-gray-500 dark:hx-text-gray-400  hx-leading-6">• Develop a Microsoft Power App application to implement functionality of Planner to manage tasks and generate automated reports using Power BI</p>
-      <div class="hx-mb-6"></div>
-      details about the internship {{< icon "external-link" >}}
-    </div></a>
+{{< hextra/feature-grid >}}
+{{< hextra/feature-interncard
+    title="Adobe"
+    link="details/internship-details/adobe/"
+    subtitle="• Build a Machine Learning Model in python to give predictions based on description and display it on the frontend using APIs using flask"
+    subtitlee="• Develop a Microsoft Power App application to implement functionality of Planner to manage tasks and generate automated reports using Power BI"
+    role="CXM intern"
+    tech="Machine Learining, Python, Backend Server"
+    duration="Apr 2023 - Present"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 99% 80%,rgba(231 226 226 / 15%),hsla(0,0%,100%,0)); border-radius: 1rem;"
+  >}}
+  {{< hextra/feature-interncard
+    title="IIT Bombay"
+    link="details/internship-details/iit-bombay/"
+    subtitle="• Work with backend [Nodejs (JavaScript)] and frontend team to build APIs, adding new features, creating views and removing bugs"
+    subtitlee="• Implement Faceted Search functionality to their project using Elasticsearch and real time data collection engine Logstash to fetch records from their PostgreSQL server"
+    role="Web Developer"
+    tech="Elastic Search, NodeJS"
+    duration="Apr 2023 - Present"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 99% 80%,rgba(231 226 226 / 15%),hsla(0,0%,100%,0)); border-radius: 1rem;"
+  >}}
+  {{< hextra/feature-interncard
+    title="Tricket.in"
+    link=""
+    subtitle="• Design entire backend in Nodejs (TypeScript) following MVC architecture for Game and Admin APIs [ user-onboarding, handling real time data (firebase)]"
+    subtitlee="• Built scheduler function jobs (Cron jobs) and HTTP trigger scripts for Azure cloud functions for data clean-up"
+    role="Backend Developer"
+    tech="NodeJS, PostgreSQL, Backend Server"
+    duration="Apr 2023 - Present"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 99% 80%,rgba(231 226 226 / 15%),hsla(0,0%,100%,0)); border-radius: 1rem;"
+  >}}
+  {{< hextra/feature-interncard
+    title="Eatoes"
+    link="details/internship-details/eatoes/"
+    subtitle="• Design and built APIs using Nodejs (JavaScript) [for user-onboarding, user validation and backlisting] & for Business logic"
+    subtitlee="• Built web scrapper to crawl restaurants data from multiple sources and handling data storage on Mongo DB and Redis"
+    role="Backend Developer"
+    tech="NodeJS, MongoDB, Backend Server"
+    duration="Apr 2023 - Present"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 99% 80%,rgba(231 226 226 / 15%),hsla(0,0%,100%,0)); border-radius: 1rem;"
+  >}}
+{{< /hextra/feature-grid >}}
 
-  <a href="details/internship-details/iit-bombay/" class=" text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
-    <div class="hx-relative hx-w-full hx-p-6">
-      <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
-        <span>IIT Bombay</span>
-      </h3>
-      <div class="hx-mb-6">
-<font size="4"><b>Web Developer</b></font>
-</div>
-      <p class="hx-text-gray-500 dark:hx-text-gray-400  hx-leading-6">• Work with backend [Nodejs (JavaScript)] and frontend team to build APIs, adding new features, creating views and removing bugs</p>
-      <p class="hx-text-gray-500 dark:hx-text-gray-400  hx-leading-6">• Implement Faceted Search functionality to their project using Elasticsearch and real time data collection engine Logstash to fetch records from their PostgreSQL server</p>
-      <div class="hx-mb-6"></div>
-      details about the internship {{< icon "external-link" >}}
-    </div></a>
-
-  <a class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
-    <div class="hx-relative hx-w-full hx-p-6">
-      <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
-        <span>Tricket.in</span>
-      </h3>
-      <div class="hx-mb-6">
-<font size="4"><b>Backend Developer</b></font>
-</div>
-      <p class="hx-text-gray-500 dark:hx-text-gray-400  hx-leading-6">• Design entire backend in Nodejs (TypeScript) following MVC architecture for Game and Admin APIs [ user-onboarding, handling real time data (firebase)]</p>
-      <p class="hx-text-gray-500 dark:hx-text-gray-400  hx-leading-6">• Built scheduler function jobs (Cron jobs) and HTTP trigger scripts for Azure cloud functions for data clean-up</p>
-      <div class="hx-mb-6"></div>
-      details about the internship {{< icon "external-link" >}}
-    </div></a>
-
-
-  <a href="details/internship-details/eatoes/" class="text-decoration-none hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px] hextra-feature-card not-prose hx-block hx-relative hx-overflow-hidden hx-rounded-3xl hx-border hx-border-gray-200 hover:hx-border-gray-300 dark:hx-border-neutral-800 dark:hover:hx-border-neutral-700 before:hx-pointer-events-none before:hx-absolute before:hx-inset-0 before:hx-bg-glass-gradient">
-    <div class="hx-relative hx-w-full hx-p-6">
-      <h3 class="hx-text-2xl hx-font-medium hx-leading-6 hx-mb-2 hx-flex hx-items-center">
-        <span>Eatoes</span>
-      </h3>
-      <div class="hx-mb-6">
-<font size="4"><b>Backend Developer</b></font>
-</div>
-      <p class="hx-text-gray-500 dark:hx-text-gray-400  hx-leading-6">• Design and built APIs using Nodejs (JavaScript) [for user-onboarding, user validation and backlisting] & for Business logic</p>
-      <p class="hx-text-gray-500 dark:hx-text-gray-400  hx-leading-6">• Built web scrapper to crawl restaurants data from multiple sources and handling data storage on Mongo DB and Redis</p>
-      <div class="hx-mb-6"></div>
-      details about the internship {{< icon "external-link" >}}
-    </div></a>
-</div>
 
 <div class="hx-mb-10"></div>
 
@@ -182,14 +182,15 @@ CGPA: 10/10
 
 • Flipkart Grid 4.0 1st round clearup (1300 teams selected out of 50000 teams) work on problem statement NFT Based Warranty System
 
+<div class="hx-mb-6"></div>
 
 
 
-
-<div class="hx-mb-6">
+<div >
 <font size="6"><b>Recommendation</b></font>
 </div>
-
+People I've worked with have said some nice things...
+<div class="hx-mb-6"></div>
 <div class="w-75" style="margin-right:auto; margin-left:auto;">
 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
