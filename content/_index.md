@@ -1,5 +1,5 @@
 ---
-title: Hextra Theme
+title: Shubham Portfolio
 layout: hextra-home
 ---
 
