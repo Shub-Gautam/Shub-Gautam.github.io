@@ -10,32 +10,65 @@ During my time in college, I explored technology through projects that reflect m
 
 <br>
 
-{{< card title="DDN Storage" link="https://skillsoft.digitalbadges.skillsoft.com/a8898466-9911-4330-abbd-23ee24a837ff#gs.435a8q" >}}
+{{< hextra/feature-grid >}}
+{{< hextra/feature-card
+    title="DDNStorage"
+    link="/details/project-details/ddn-storage/"
+    icon="link"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    image="/images/ddnimg.png"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0)); border-radius: 1rem;"
+  >}}
+  {{< hextra/feature-card
+    title="MCacheDB"
+    icon="link"
+    link="/details/project-details/mcachedb/"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/mcachef.png"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0)); border-radius: 1rem;"
+    
+  >}}
+  
+  {{< hextra/feature-card
+    title="TOG Alora"
+    icon="link"
+    link="/details/project-details/tog-alora/"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
+    image="/images/togalora1.png"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0)); border-radius: 1rem;"
+  >}}
+{{< /hextra/feature-grid >}}
+<br>
 
+{{% details title="WhatsAuto" closed="true" %}}
+
+This is the content of the details.
+
+Markdown is **supported**.
+
+{{% /details %}}
 
 <br>
 
-{{< card title="MCacheDB" link="https://drive.google.com/file/d/1USGx6krzO2K17to8q22f8M2JXRa4tbBa/view?usp=drive_link" >}}
+
+{{% details title="NFT Warranty System" closed="true" %}}
+
+This is the content of the details.
+
+Markdown is **supported**.
+
+{{% /details %}}
 
 <br>
 
-{{< card title="TOG Alora" link="https://drive.google.com/file/d/1-z_bVCnXPIkWJOtGWQUASE666kwHvtGO/view?usp=drive_link" >}}
+{{% details title="File Sharing" closed="true" %}}
 
-<br>
 
-{{< card title="WhatsAuto" link="https://drive.google.com/file/d/1bwKPNM6ujsmDqpHpYWeAGYsPh7HHyA-m/view?usp=drive_link" >}}
 
-<br>
-
-{{< card title="NFT Warranty System" link="https://drive.google.com/file/d/1USGx6krzO2K17to8q22f8M2JXRa4tbBa/view?usp=drive_link" >}}
-
-<br>
-
-{{< card title="File Sharing" link="https://drive.google.com/file/d/1jec2Jme_Q3B-O1xS-bGsVv95gmd6VfLg/view?usp=drive_link" >}}
-
-<br>
-
-{{< card title="Fundamentals of Reinforcement Learning" link="https://drive.google.com/file/d/1HVC240fA5__ZOirrwQ0atTdJnDknYSDS/view?usp=drive_link" >}}
+{{% /details %}}
 
 
 <br>

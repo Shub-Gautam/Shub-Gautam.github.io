@@ -9,8 +9,8 @@ title: Details Section
 ## Links
 
 {{< cards >}}
-  {{< card link="internship-details/" title="Internships Details" icon="briefcase" subtitle="" >}}
-  {{< card link="project-details/" title="Project Details" icon="code" subtitle="" >}}
+  {{< card link="internship-details/" image="/images/4630062.jpg" title="Internships Details" icon="briefcase" subtitle="" >}}
+  {{< card link="project-details/" image="/images/2555355.jpg" title="Project Details" icon="code" subtitle="" >}}
   {{< card link="certifications" title="Certification" icon="academic-cap" subtitle="" >}}
 {{< /cards >}}
 
