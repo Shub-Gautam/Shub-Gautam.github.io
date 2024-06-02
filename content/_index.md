@@ -134,7 +134,7 @@ CGPA: 10/10
 {{< hextra/feature-interncard
     title="Adobe"
     icon="at-symbol"
-    link="details/internship-details/adobe/"
+    link="details/internship-details/#adobe"
     subtitle="• Build a Machine Learning Model in python to give predictions based on description and display it on the frontend using APIs using flask"
     subtitlee="• Develop a Microsoft Power App application to implement functionality of Planner to manage tasks and generate automated reports using Power BI"
     role="CXM intern"
@@ -147,7 +147,7 @@ CGPA: 10/10
   {{< hextra/feature-interncard
     title="IIT Bombay"
     icon="at-symbol"
-    link="details/internship-details/iit-bombay/"
+    link="details/internship-details/#iit-bombay"
     subtitle="• Work with backend [Nodejs (JavaScript)] and frontend team to build APIs, adding new features, creating views and removing bugs"
     subtitlee="• Implement Faceted Search functionality to their project using Elasticsearch and real time data collection engine Logstash to fetch records from their PostgreSQL server"
     role="Web Developer"
@@ -173,7 +173,7 @@ CGPA: 10/10
   {{< hextra/feature-interncard
     title="Eatoes"
     icon="at-symbol"
-    link="details/internship-details/eatoes/"
+    link="details/internship-details/#eatoes"
     subtitle="• Design and built APIs using Nodejs (JavaScript) [for user-onboarding, user validation and backlisting] & for Business logic"
     subtitlee="• Built web scrapper to crawl restaurants data from multiple sources and handling data storage on Mongo DB and Redis"
     role="Backend Developer"
