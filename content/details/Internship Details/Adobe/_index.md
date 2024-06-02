@@ -1,4 +1,5 @@
 ---
+linkTitle: "Adobe"
 title: Adobe 
 ---
 

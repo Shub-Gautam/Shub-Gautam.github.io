@@ -1,6 +1,15 @@
 ---
 linkTitle: "Getting started with NodeJS Environment variable & Command Line Arguments"
 title: Getting started with NodeJS Environment variable & Command Line Arguments
+date: 2023-04-05
+authors:
+  - name: Shubham Gautam
+    link: https://github.com/Shub-Gautam
+    image: https://github.com/Shub-Gautam.png
+tags:
+  - NodeJS
+  - Technology
+  - Backend
 ---
 ![alt text](image.png)
 

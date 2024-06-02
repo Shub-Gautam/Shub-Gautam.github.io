@@ -32,6 +32,7 @@ layout: hextra-home
     title="DDN Storage"
     link="/details/project-details/ddn-storage/"
     subtitle="Data extractor engine for Cloud storage which helps you to collect hidden data and patterns from your cloud files "
+    icon="link"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="images/ddnimg.png"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
@@ -39,8 +40,9 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="MCacheDB"
+    icon="link"
     link="/details/project-details/mcachedb/"
-    subtitle="In-Memory Key Value Database in java with features like Backup Sharing, Remote login, concurrency handeling, API API  "
+    subtitle="In-Memory Key Value Database in java with features like Backup Sharing, Remote login, concurrency handeling, API access"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="images/mcachef.png"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
@@ -50,6 +52,7 @@ layout: hextra-home
   
   {{< hextra/feature-card
     title="TOG Alora"
+    icon="link"
     subtitle="Android application for NGO/Volunteers which help them moniter their functions and attendance using virtual ID Card."
     link="/details/project-details/tog-alora/"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
@@ -91,13 +94,13 @@ CGPA: 9.20/10
 {{% /details %}}
 <br>
 
-### Higher Secondary
+### Higher Secondary (Central Board of Secondary Education)
 
 Radha Krishna Public Sr. Sec. School, Uttar Pradesh [2019]
 <br>
 Percentage 92.6%
 
-### Senior Secondary
+### Senior Secondary (Central Board of Secondary Education)
 
 Radha Krishna Public Sr. Sec. School, Uttar Pradesh [2017]
 <br>
@@ -182,9 +185,20 @@ CGPA: 10/10
 
 • Flipkart Grid 4.0 1st round clearup (1300 teams selected out of 50000 teams) work on problem statement NFT Based Warranty System
 
-<div class="hx-mb-6"></div>
+<div class="hx-mb-10"></div>
 
 
+<div class="hx-mb-4">
+<font size="6"><b>Recent Blog Posts</b></font>
+</div>
+
+
+{{< cards >}}
+  {{< card link="/blog/getting-started-with-nodejs-environment-variable--command-line-arguments/" title="Getting started with NodeJS Environment variable & Command Line Arguments" >}}
+  {{< card link="/blog/internship-experience-at-adobe/" title="Internship Experience at Adobe" >}}
+{{< /cards >}}
+
+<div class="hx-mb-10"></div>
 
 <div >
 <font size="6"><b>Recommendation</b></font>

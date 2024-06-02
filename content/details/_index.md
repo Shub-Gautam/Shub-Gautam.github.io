@@ -1,5 +1,5 @@
 ---
-linkTitle: "Details Section"
+linkTitle: Details Section
 title: Details Section
 ---
 

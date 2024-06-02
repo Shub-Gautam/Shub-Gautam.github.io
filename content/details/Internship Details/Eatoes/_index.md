@@ -1,4 +1,5 @@
 ---
+linkTitle: "Eatoes"
 title: Eatoes
 ---
 
