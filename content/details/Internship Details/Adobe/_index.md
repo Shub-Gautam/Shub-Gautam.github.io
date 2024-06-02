@@ -16,14 +16,25 @@ this result in extending our internship duration to 2 months [aug 2023 - nov 202
 
 Further details about the projects is present in the presentation.
 
-### Public Resources
+{{% details title="Presentation" closed="true" %}}
 
-{{< cards >}}
-  {{< card link="https://1drv.ms/p/s!Ao-vGXK6Wdzgp3T5TkNBn3pYKK8x?e=RsIW1g" title="Presentation" icon="document-text" subtitle="" >}}
-  {{< card link="https://drive.google.com/file/d/1a7U4nFAzlebLZV63WbHh5dtuRLKo1-cA/view?usp=sharing" title="Internship Certification" icon="document-text" subtitle="" >}}
-{{< /cards >}}
+Here is a video demo for installation of MCacheDB
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://docs.google.com/presentation/d/1g8yMCCUDRyPpKHjYbvuxfwGqBfgEKQr3/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+  ></iframe>
+</div>
 
 {{< callout type="info" >}}
   You might not able to open the Power Point presentation because opening access is restricted to Shubham Gautam, if you want to have access to this resource please contact the owner <a href="/about-me">here</a>, or book a virtual meeting <a href="https://calendly.com/skgautam393/30min">here</a>.
 {{< /callout >}}
+
+{{% /details %}}
+
+### Public Resources
+
+{{< cards >}}
+  {{< card link="https://drive.google.com/file/d/1a7U4nFAzlebLZV63WbHh5dtuRLKo1-cA/view?usp=sharing" title="Internship Certification" icon="document-text" subtitle="" >}}
+{{< /cards >}}
+
+

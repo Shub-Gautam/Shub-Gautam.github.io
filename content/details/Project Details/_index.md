@@ -43,11 +43,31 @@ During my time in college, I explored technology through projects that reflect m
 {{< /hextra/feature-grid >}}
 <br>
 
+{{% details title="File Sharing" closed="true" %}}
+
+Video Demo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://drive.google.com/file/d/1PFipQYl8REOndTN4xw1Jf9tGDEkCssL6/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+  ></iframe>
+</div>
+
+
+
+{{% /details %}}
+
+<br>
+
+
 {{% details title="WhatsAuto" closed="true" %}}
 
-This is the content of the details.
 
-Markdown is **supported**.
+Video Demo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://drive.google.com/file/d/1meMcRyRVLIF-ot11yQDr1D2BS8wxqZoJ/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+  ></iframe>
+</div>
 
 {{% /details %}}
 
@@ -56,19 +76,18 @@ Markdown is **supported**.
 
 {{% details title="NFT Warranty System" closed="true" %}}
 
-This is the content of the details.
+Video Demo
 
-Markdown is **supported**.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://drive.google.com/file/d/1meMcRyRVLIF-ot11yQDr1D2BS8wxqZoJ/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+  ></iframe>
+</div>
 
 {{% /details %}}
 
 <br>
 
-{{% details title="File Sharing" closed="true" %}}
 
-
-
-{{% /details %}}
 
 
 <br>
