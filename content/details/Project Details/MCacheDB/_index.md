@@ -48,7 +48,7 @@ https://github.com/Shub-Gautam/MCacheDB/releases/tag/Beta
 Here is a video demo for installation of MCacheDB
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/uS1eOn6yguE?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://drive.google.com/file/d/1OWwgwel4SXJA76nCcYi-D_0YZdsxIVhN/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
   ></iframe>
 </div>
 
@@ -67,7 +67,10 @@ Coming soon...
 
 {{% details title="Architecture" closed="true" %}}
 
-coming soon..
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://drive.google.com/file/d/1IaS-8K-vNj2d844Ou3KUqfBfZ8GLstCg/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+  ></iframe>
+</div>
 
 {{% /details %}}
 
@@ -75,7 +78,7 @@ coming soon..
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://1drv.ms/p/s!Ao-vGXK6WdzgpWqBR-VBaEG5pNcv?e=AUDJSO" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://docs.google.com/presentation/d/1o2tgwng9TNAhydZugp7bGiKq1MfwIvwv/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
   ></iframe>
 </div>
 
