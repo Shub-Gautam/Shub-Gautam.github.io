@@ -7,7 +7,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-5">
 {{< hextra/hero-headline >}}
-  Shubham Kumar Gautam&nbsp;<br class="sm:hx-block hx-hidden" />Upcoming SDE-I&nbsp;<br class="sm:hx-block hx-hidden" /> at Hindustan Times Media
+  Shubham Kumar Gautam&nbsp;<br class="sm:hx-block hx-hidden" />Upcoming Software Developer&nbsp;<br class="sm:hx-block hx-hidden" />
 {{< /hextra/hero-headline >}}
 </div>
 
