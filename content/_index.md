@@ -7,7 +7,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-5">
 {{< hextra/hero-headline >}}
-  Shubham Kumar Gautam&nbsp;<br class="sm:hx-block hx-hidden" />Upcoming Software Developer&nbsp;<br class="sm:hx-block hx-hidden" />
+  Shubham Kumar Gautam&nbsp;<br class="sm:hx-block hx-hidden" />SDE 1 at&nbsp;Urban Company<br class="sm:hx-block hx-hidden" />
 {{< /hextra/hero-headline >}}
 </div>
 

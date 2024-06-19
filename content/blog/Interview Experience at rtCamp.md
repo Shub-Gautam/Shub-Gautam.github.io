@@ -37,5 +37,5 @@ Most of the discussion was based on High Level Design of these senerios, during 
 
 The interviewer panel was same and we started our second round of interview, in which simple questions on react were asked, regarding Virtual DOM, States and Props, shadow element in CSS, I told my interviewer that I am not comfortable with react or with frontend, that I am more focused on backend technologies, then they asked another System Design question, this is a simple one not like the previous design questions. Then they asked me some managerial questions, I am able to gave answer to almost all of the questions except for the frontend. The interviewer told me that they want me to move to the HR meeting room where they extend me an offer and tells me about the company and feedback from the interviewers (They were satisfied by my Problem solving and Design concepts but tells me to improve on my frontend skills which I agreed) 
 
-on the same day I got the offer letter
+Verdict: Selected 
 

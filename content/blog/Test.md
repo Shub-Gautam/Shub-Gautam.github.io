@@ -13,6 +13,15 @@ authors:
 
 System design is an important part while working on a project, a good design will help you to build a robust, scalable and maintainable project. I started learining System Design when I was in 3rd year of my B.Tech Degree, and these are my pick to read.
 
-**1. System Design Interview by Alex Yu (ByteByteGo)**
+### High Level Design
 
-Awsome book for High Level Design, It consists of multiple real world example.
+  **1. System Design Interview by Alex Yu (ByteByteGo) 1st Volume** <br>
+  **2. System Design Interview by Alex Yu (ByteByteGo) 2nd Volume**
+
+### Low Level Design
+
+  **1. Head First Design Patterns by Freeman**
+
+### Others
+
+  **1. Designing Data-Intensive Application**

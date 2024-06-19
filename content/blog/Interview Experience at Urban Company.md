@@ -59,4 +59,4 @@ Tip: Try to be concise
 
 -----
 
-Verdict: Pending 
+Verdict: Selected 
