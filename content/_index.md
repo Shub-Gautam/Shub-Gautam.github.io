@@ -18,7 +18,7 @@ layout: hextra-home
 </div>
 
 <div class="hx-mb-12">
-{{< hextra/hero-button text="Resume" link="https://drive.google.com/file/d/1NckS0veoX280awyxGf1EcQLIvb5AVY8a/view?usp=sharing" >}}
+{{< hextra/hero-button text="Resume" link="https://resume.skgautam.com" >}}
 </div>
 
 
